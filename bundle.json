@@ -4,9 +4,7 @@
 		"style.css": {
 			"url": "style.css"
 		},
-    "selection.json": {
-      "url": "selection.json"
-    },
+	"fonts": {
     "dats24.eot": {
       "url": "fonts/dats24.eot"
     },
@@ -19,5 +17,6 @@
     "dats24.woff": {
       "url": "fonts/dats24.woff"
     }
+	}
 	}
 }
