@@ -2,7 +2,7 @@
 	"name": "dats24-icons",
 	"resources": {
 		"style.css": {
-			"url": "style.scss"
+			"url": "style.css"
 		},
     "selection.json": {
       "url": "selection.json"
