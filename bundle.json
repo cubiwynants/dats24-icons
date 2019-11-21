@@ -1,0 +1,23 @@
+{
+	"name": "dats24-icons",
+	"resources": {
+		"style.css": {
+			"url": "style.scss"
+		},
+    "selection.json": {
+      "url": "selection.json"
+    },
+    "dats24.eot": {
+      "url": "fonts/dats24.eot"
+    },
+    "dats24.svg": {
+      "url": "fonts/dats24.svg"
+    },
+    "dats24.ttf": {
+      "url": "fonts/dats24.ttf"
+    },
+    "dats24.woff": {
+      "url": "fonts/dats24.woff"
+    }
+	}
+}
