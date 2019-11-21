@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'dats24';
-  src:  url('fonts/dats24.eot?a2hazq');
-  src:  url('fonts/dats24.eot?a2hazq#iefix') format('embedded-opentype'),
-    url('fonts/dats24.ttf?a2hazq') format('truetype'),
-    url('fonts/dats24.woff?a2hazq') format('woff'),
-    url('fonts/dats24.svg?a2hazq#dats24') format('svg');
+  src:  url('${server.root()}resources/fonts/dats24.eot?a2hazq');
+  src:  url('${server.root()}resources/fonts/dats24.eot?a2hazq#iefix') format('embedded-opentype'),
+    url('${server.root()}resources/fonts/dats24.ttf?a2hazq') format('truetype'),
+    url('${server.root()}resources/fonts/dats24.woff?a2hazq') format('woff'),
+    url('${server.root()}resources/fonts/dats24.svg?a2hazq#dats24') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
