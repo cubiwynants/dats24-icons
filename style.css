@@ -1,0 +1,155 @@
+@font-face {
+  font-family: 'dats24';
+  src:  url('fonts/dats24.eot?a2hazq');
+  src:  url('fonts/dats24.eot?a2hazq#iefix') format('embedded-opentype'),
+    url('fonts/dats24.ttf?a2hazq') format('truetype'),
+    url('fonts/dats24.woff?a2hazq') format('woff'),
+    url('fonts/dats24.svg?a2hazq#dats24') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="dats24-"], [class*=" dats24-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'dats24' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.dats24-night-primary:before {
+  content: "\e900";
+  color: #4b600b;
+}
+.dats24-day-primary:before {
+  content: "\e901";
+  color: #4b600b;
+}
+.dats24-search-primary:before {
+  content: "\e902";
+  color: #4b600b;
+}
+.dats24-filter-primary:before {
+  content: "\e903";
+  color: #4b600b;
+}
+.dats24-bolt-primary:before {
+  content: "\e904";
+  color: #4b600b;
+}
+.dats24-flame-primary:before {
+  content: "\e905";
+  color: #4b600b;
+}
+.dats24-printer-primary:before {
+  content: "\e906";
+  color: #4b600b;
+}
+.dats24-repeat-primary:before {
+  content: "\e907";
+  color: #4b600b;
+}
+.dats24-card-primary:before {
+  content: "\e908";
+  color: #4b600b;
+}
+.dats24-cellphone-primary:before {
+  content: "\e909";
+  color: #4b600b;
+}
+.dats24-checkmark-primary:before {
+  content: "\e90a";
+  color: #4b600b;
+}
+.dats24-globe-primary:before {
+  content: "\e90b";
+  color: #4b600b;
+}
+.dats24-info-isolated-primary:before {
+  content: "\e90c";
+  color: #4b600b;
+}
+.dats24-info-primary:before {
+  content: "\e90d";
+  color: #4b600b;
+}
+.dats24-line-diagonal-primary:before {
+  content: "\e90e";
+  color: #4b600b;
+}
+.dats24-line-horizontal-primary:before {
+  content: "\e90f";
+  color: #4b600b;
+}
+.dats24-mail-primary:before {
+  content: "\e910";
+  color: #4b600b;
+}
+.dats24-off-primary:before {
+  content: "\e911";
+  color: #4b600b;
+}
+.dats24-plus-primary:before {
+  content: "\e912";
+  color: #4b600b;
+}
+.dats24-warning-primary:before {
+  content: "\e913";
+  color: #4b600b;
+}
+.dats24-camera-primary:before {
+  content: "\e914";
+  color: #4b600b;
+}
+.dats24-cross-primary:before {
+  content: "\e915";
+  color: #4b600b;
+}
+.dats24-datepicker-primary:before {
+  content: "\e916";
+  color: #4b600b;
+}
+.dats24-home-primary:before {
+  content: "\e917";
+  color: #4b600b;
+}
+.dats24-pencil-primary:before {
+  content: "\e918";
+  color: #4b600b;
+}
+.dats24-pointer-down-primary:before {
+  content: "\e919";
+  color: #4b600b;
+}
+.dats24-pointer-left-primary:before {
+  content: "\e91a";
+  color: #4b600b;
+}
+.dats24-pointer-right-primary:before {
+  content: "\e91b";
+  color: #4b600b;
+}
+.dats24-pointer-up-primary:before {
+  content: "\e91c";
+  color: #4b600b;
+}
+.dats24-person-primary:before {
+  content: "\e91d";
+  color: #4b600b;
+}
+.dats24-placeholder-primary:before {
+  content: "\e91e";
+  color: #4b600b;
+}
+.dats24-tag-primary:before {
+  content: "\e91f";
+  color: #4b600b;
+}
