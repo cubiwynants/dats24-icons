@@ -11,6 +11,7 @@
 }
 
 [class^="dats24-"], [class*=" dats24-"] {
+  color: inherit;
   /* use !important to prevent issues with browser extensions that change fonts */
   font-family: 'dats24' !important;
   speak: none;
